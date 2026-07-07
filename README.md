@@ -9,7 +9,7 @@ Markdown
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RobbyTSP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/RobbyTSP)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RobbyTSP&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/RobbyTSP)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RobbyTSP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/RobbyTSP)
 
 ### 🛠️ Tech Stack
 
