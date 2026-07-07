@@ -1,18 +1,17 @@
-Hier ist die komplette, saubere englische Version deiner README.md:
-
 # Hi there, I'm Robby! 👋
 
 ### 📊 Coding Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RobbyTSP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/RobbyTSP)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RobbyTSP&layout=donut&theme=tokyonight&langs_count=10&hide_border=true)](https://github.com/RobbyTSP)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RobbyTSP&layout=compact&theme=tokyonight&hide_border=true&hide=Roff,Meson,Makefile,M4)](https://github.com/RobbyTSP)
 
 ### 🛠️ Tech Stack
 
 **Languages**  
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
 
@@ -27,9 +26,7 @@ Hier ist die komplette, saubere englische Version deiner README.md:
 
 - Student & Self-Taught Developer from Mannheim, Germany
 - Passionate about **System Programming**, low-level optimizations, and Linux
-- Currently working a lot with **C++**, **Go**, and **Python**
+- Currently working a lot with **C**, **C++**, and **Python**
 - Gentoo Linux power user 🐧
 
 ---
-
-**Made with ❤️ and a lot of coffee**
