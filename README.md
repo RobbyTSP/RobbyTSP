@@ -1,8 +1,35 @@
+Hier ist die komplette, saubere englische Version deiner README.md:
+
 # Hi there, I'm Robby! 👋
 
 ### 📊 Coding Stats
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RobbyTSP&layout=compact&theme=tokyonight)](https://github.com/lucasalt/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RobbyTSP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/RobbyTSP)
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RobbyTSP&layout=donut&theme=tokyonight&langs_count=10&hide_border=true)](https://github.com/RobbyTSP)
 
 ### 🛠️ Tech Stack
-* **Languages:** C++, Go, Python, Bash
-* **OS/Tools:** Gentoo Linux, Git
+
+**Languages**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
+
+**OS & Tools**  
+![Gentoo Linux](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+
+---
+
+### 🚀 About Me
+
+- Student & Self-Taught Developer from Mannheim, Germany
+- Passionate about **System Programming**, low-level optimizations, and Linux
+- Currently working a lot with **C++**, **Go**, and **Python**
+- Gentoo Linux power user 🐧
+
+---
+
+**Made with ❤️ and a lot of coffee**
