@@ -4,7 +4,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RobbyTSP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/RobbyTSP)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RobbyTSP&layout=donut&theme=tokyonight&langs_count=20&hide=Roff,Meson,CMake,Makefile,Rust&hide_border=true)](https://github.com/RobbyTSP)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RobbyTSP&layout=compact&theme=tokyonight&langs_count=20&hide=C,Roff,Meson,CMake,Makefile,Rust&hide_border=true)](https://github.com/RobbyTSP)
 
 ### 🛠️ Tech Stack
 
