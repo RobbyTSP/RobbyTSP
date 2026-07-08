@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-- Student & Self-Taught Developer from Mannheim, Germany
+- Student & Self-Taught Developer from Germany
 - Passionate about **System Programming**, low-level optimizations, and Linux
 - Currently working a lot with **C**, **C++**, **Go**, and **Python**
 - Gentoo Linux power user 🐧
